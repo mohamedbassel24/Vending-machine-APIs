@@ -1,6 +1,4 @@
-# Building a Restful API for Vending Machine with (Create, Retrieve, Update, Delete) APIs for User and Product Models with Node.js, Express and MongoDB #
-
-Mongoose is an ODM (Object Document Mapping) tool for Node.js and MongoDB. It helps you convert the objects in your code to documents in the database and vice versa.  
+# Building a Restful API for Vending Machine with Node.js, Express and MongoDB # 
 
 ## Prerequisites:  
 Please install MongoDB in your machine if you have not done already. Checkout the official MogngoDB installation manual for any help with the installation.
@@ -20,4 +18,11 @@ Start  Express.js app at `http://localhost:3000/`:
 
 ```bash
 $ npm start
+```
+Testing APIs
+
+
+```bash
+
+$ npm test
 ```
